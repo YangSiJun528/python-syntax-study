@@ -28,7 +28,7 @@ print("/".join(interest))
 print("\n".join(interest))
 
 # 69
-string = "삼성전자/LG전자/Naver
+string = "삼성전자/LG전자/Naver"
 print(string.split("/"))
 
 # 70
